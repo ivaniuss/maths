@@ -1,14 +1,13 @@
-# Media generada (pesada - no subir a github)
+# Media generada (pesada)
 discrete_maths/media/
 *.mp4
-*.mp3
 *.wav
-*.svg
-*.tex
+# Permitir thumb para README
+!docs/thumb_11.jpg
+*.mp3
+!discrete_maths/animaciones/modulo1/voiceovers/*.mp3
 __pycache__/
 *.pyc
-.pyenv/
 .DS_Store
-# Entornos
 venv/
 .pyenv/
