@@ -1,0 +1,14 @@
+# Media generada (pesada - no subir a github)
+discrete_maths/media/
+*.mp4
+*.mp3
+*.wav
+*.svg
+*.tex
+__pycache__/
+*.pyc
+.pyenv/
+.DS_Store
+# Entornos
+venv/
+.pyenv/
