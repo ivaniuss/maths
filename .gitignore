@@ -1,13 +1,3 @@
-# Media generada (pesada)
-discrete_maths/media/
-*.mp4
-*.wav
-# Thumb para README sí
-!docs/thumb_11.jpg
-# Audios: ignorar todos menos voiceovers canónicos
-*.mp3
-!discrete_maths/animaciones/modulo1/voiceovers/
-!discrete_maths/animaciones/modulo1/voiceovers/*.mp3
 __pycache__/
 *.pyc
 .DS_Store
